@@ -1,0 +1,33 @@
+$('.fqhead1').click(function(){
+    $('.descp1').toggle()
+})
+$('.fqhead2').click(function(){
+    $('.descp2').toggle()
+})
+$('.fqhead3').click(function(){
+    $('.descp3').toggle()
+})
+$('.fqhead4').click(function(){
+    $('.descp4').toggle()
+})
+$('.fqhead5').click(function(){
+    $('.descp5').toggle()
+})
+$('.fqhead6').click(function(){
+    $('.descp6').toggle()
+})
+$('.fqhead7').click(function(){
+    $('.descp7').toggle()
+})
+$('.fqhead8').click(function(){
+    $('.descp8').toggle()
+})
+$('.fqhead9').click(function(){
+    $('.descp9').toggle()
+})
+$('.fqhead10').click(function(){
+    $('.descp10').toggle()
+})
+$('.fqhead11').click(function(){
+    $('.descp11').toggle()
+})
